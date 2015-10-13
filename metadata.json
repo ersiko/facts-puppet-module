@@ -1,0 +1,13 @@
+{
+  "name": "ersiko-facts",
+  "version": "0.1.0",
+  "author": "ersiko",
+  "summary": "Facts handy for hiera",
+  "license": "Apache 2.0",
+  "source": "https://github.com/ersiko/facts-puppet-module",
+  "project_page": "https://github.com/ersiko/facts-puppet-module",
+  "issues_url": "https://github.com/ersiko/facts-puppet-module/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
